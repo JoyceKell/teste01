@@ -17,7 +17,7 @@ Para utilizar a API, deve-se enviar uma requisição HTTP POST para a rota http:
 
 Exemplo:
 
--   POST http://localhost:8000/pizza-chart
+-   POST http://localhost:8000/api/pizza-chart
 -   Content-Type: application/json
 
 ```{ "English": 4, "Polish": 12, "Russian": 10, "Spanish": 2 }```
